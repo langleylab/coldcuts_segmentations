@@ -1,0 +1,145 @@
+id,name,acronym,parent_structure_id,structure_id_path,col,graph_depth
+1,Anterior_Superior_Frontal_Gyrus,L.aSFG,131,/143/138/142/131/1,white,5
+2,Anterior_Superior_Frontal_Gyrus,R.aSFG,131,/143/138/142/131/2,white,5
+3,Middle_Superior_Frontal_Gyrus ,L.mSFG,131,/143/138/142/131/3,white,5
+4,Middle_Superior_Frontal_Gyrus ,R.mSFG,131,/143/138/142/131/4,white,5
+5,Posterior_Superior_Frontal_Gyrus ,L.pSFG,131,/143/138/142/131/5,white,5
+6,Posterior_Superior_Frontal_Gyrus ,R.pSFG,131,/143/138/142/131/6,white,5
+7,Anterior_Middle_Frontal_Gyrus ,L.aMFG,131,/143/138/142/131/7,white,5
+8,Anterior_Middle_Frontal_Gyrus ,R.aMFG,131,/143/138/142/131/8,white,5
+9,Posterior_Middle_Frontal_Gyrus ,L.pMFG,131,/143/138/142/131/9,white,5
+10,Posterior_Middle_Frontal_Gyrus ,R.pMFG,131,/143/138/142/131/10,white,5
+11,Anterior_Inferior_Frontal_Gyrus ,L.aIFG,131,/143/138/142/131/11,white,5
+12,Anterior_Inferior_Frontal_Gyrus ,R.aIFG,131,/143/138/142/131/12,white,5
+13,Middle_Infertior_Frontal_Gryus ,L.mIFG,131,/143/138/142/131/13,white,5
+14,Middle_Infertior_Frontal_Gryus ,R.mIFG,131,/143/138/142/131/14,white,5
+15,Posterior_Inferior_Frontal_Gyrus ,L.pIFG,131,/143/138/142/131/15,white,5
+16,Posterior_Inferior_Frontal_Gyrus ,R.pIFG,131,/143/138/142/131/16,white,5
+17,Medial_Orbitofrontal_Cortex ,L.mOFC,131,/143/138/142/131/17,white,5
+18,Medial_Orbitofrontal_Cortex ,R.mOFC,131,/143/138/142/131/18,white,5
+19,Lateral_Orbito-frontal_Cortex ,L.latOFC,131,/143/138/142/131/19,white,5
+20,Lateral_Orbito-frontal_Cortex ,R.latOFC,131,/143/138/142/131/20,white,5
+21,Anterior_Cingulate_Cortex,L.ACC,132,/143/138/142/132/21,white,5
+22,Anterior_Cingulate_Cortex ,R.ACC,132,/143/138/142/132/22,white,5
+23,Middle_Cingulate_Cortex ,L.MCC,132,/143/138/142/132/23,white,5
+24,Middle_Cingulate_Cortex ,R.MCC,132,/143/138/142/132/24,white,5
+25,Posterior_Cingulate_Cortex ,L.PCC,132,/143/138/142/132/25,white,5
+26,Posterior_Cingulate_Cortex ,R.PCC,132,/143/138/142/132/26,white,5
+27,Superior_Precentral_Gyrus ,L.sPrCG,131,/143/138/142/131/27,white,5
+28,Superior_Precentral_Gyrus ,R.sPrCG,131,/143/138/142/131/28,white,5
+29,Middle_Precentral_Gyrus ,L.mPrCG,131,/143/138/142/131/29,white,5
+30,Middle_Precentral_Gyrus ,R.mPrCG,131,/143/138/142/131/30,white,5
+31,Inferior_Precentral_Gyrus ,L.iPrCG,131,/143/138/142/131/31,white,5
+32,Inferior_Precentral_Gyrus ,R.iPrCG,131,/143/138/142/131/32,white,5
+33,Paracentral_Lobule ,L.PCL,133,/143/138/142/133/33,white,5
+34,Paracentral_Lobule ,R.PCL,133,/143/138/142/133/34,white,5
+35,Frontal_Operculum,L.FrOP,131,/143/138/142/131/35,white,5
+36,Frontal_Operculum,R.FrOP,131,/143/138/142/131/36,white,5
+37,Partietal_Operculum,L.PaOP,133,/143/138/142/133/37,white,5
+38,Partietal_Operculum,R.PaOP,133,/143/138/142/133/38,white,5
+39,Anterior_Insula ,L.aIns,144,/143/138/144/39,white,4
+40,Anterior_Insula ,R.aIns,144,/143/138/144/40,white,4
+41,Posterior_Insula ,L.pIns,144,/143/138/144/41,white,4
+42,Posterior_Insula ,R.pIns,144,/143/138/144/42,white,4
+43,Anterior_Transverse_Temporal_Gyrus,L.aTTG,135,/143/138/142/135/43,white,5
+44,Anterior_Transverse_Temporal_Gyrus,R.aTTG,135,/143/138/142/135/44,white,5
+45,Posterior_Transverse_Temporal_Gyrus,L.pTTG,135,/143/138/142/135/45,white,5
+46,Posterior_Transverse_Temporal_Gyrus,R.pTTG,135,/143/138/142/135/46,white,5
+47,Anterior_Superior_Temporal_Gyrus ,L.aSTG,135,/143/138/142/135/47,white,5
+48,Anterior_Superior_Temporal_Gyrus ,R.aSTG,135,/143/138/142/135/48,white,5
+49,Posterior_Superior_Temporal_Gyrus ,L.pSTG,135,/143/138/142/135/49,white,5
+50,Posterior_Superior_Temporal_Gyrus ,R.pSTG,135,/143/138/142/135/50,white,5
+51,Anterior_Middle_Temporal_Gyrus ,L.aMTG,135,/143/138/142/135/51,white,5
+52,Anterior_Middle_Temporal_Gyrus ,R.aMTG,135,/143/138/142/135/52,white,5
+53,Posterior_Middle_Temporal_Gyrus ,L.pMTG,135,/143/138/142/135/53,white,5
+54,Posterior_Middle_Temporal_Gyrus ,R.pMTG,135,/143/138/142/135/54,white,5
+55,Anterior_Inferior_Temporal_Gyrus ,L.aITG,135,/143/138/142/135/55,white,5
+56,Anterior_Inferior_Temporal_Gyrus ,R.aITG,135,/143/138/142/135/56,white,5
+57,Posterior_Inferior_Temporal_Gyrus ,L.pITG,135,/143/138/142/135/57,white,5
+58,Posterior_Inferior_Temporal_Gyrus ,R.pITG,135,/143/138/142/135/58,white,5
+59,Entorhinal_Cortex ,L.EHC,132,/143/138/142/132/59,white,5
+60,Entorhinal_Cortex ,R.EHC,132,/143/138/142/132/60,white,5
+61,Anterior_Fusiform_Gyrus ,L.aFFG,135,/143/138/142/135/61,white,5
+62,Anterior_Fusiform_Gyrus ,R.aFFG,135,/143/138/142/135/62,white,5
+63,Posterior_Fusiform_Gyrus,L.pFFG,135,/143/138/142/135/63,white,5
+64,Posterior_Fusiform_Gyrus,R.pFFG,135,/143/138/142/135/64,white,5
+65,Parahippocampal_Gyrus ,L.PHC,132,/143/138/142/132/65,white,5
+66,Parahippocampal_Gyrus ,R.PHC,132,/143/138/142/132/66,white,5
+67,Amygdala ,L.Amy,132,/143/138/142/132/67,white,5
+68,Amygdala ,R.Amy,132,/143/138/142/132/68,white,5
+69,Hippocampus ,L.HC,132,/143/138/142/132/69,white,5
+70,Hippocampus ,R.HC,132,/143/138/142/132/70,white,5
+71,Superior_Postcentral_Gyrus ,L.sPoCG,133,/143/138/142/133/71,white,5
+72,Superior_Postcentral_Gyrus ,R.sPoCG,133,/143/138/142/133/72,white,5
+73,Middle_Postcentral_Gyrus ,L.mPoCG,133,/143/138/142/133/73,white,5
+74,Middle_Postcentral_Gyrus ,R.mPoCG,133,/143/138/142/133/74,white,5
+75,Inferior_Postcentral_Gyrus ,L.iPoCG,133,/143/138/142/133/75,white,5
+76,Inferior_Postcentral_Gyrus ,R.iPoCG,133,/143/138/142/133/76,white,5
+77,Superior_Parietal_Lobule ,L.SPL,133,/143/138/142/133/77,white,5
+78,Superior_Parietal_Lobule ,R.SPL,133,/143/138/142/133/78,white,5
+79,Supramarginal_Gyrus ,L.SMG,133,/143/138/142/133/79,white,5
+80,Supramarginal_Gyrus ,R.SMG,133,/143/138/142/133/80,white,5
+81,Angular_Gyrus ,L.AnG,133,/143/138/142/133/81,white,5
+82,Angular_Gyrus ,R.AnG,133,/143/138/142/133/82,white,5
+83,Precuneus ,L.PCun,133,/143/138/142/133/83,white,5
+84,Precuneus ,R.PCun,133,/143/138/142/133/84,white,5
+85,Cuneus ,L.Cun,134,/143/138/142/134/85,white,5
+86,Cuneus ,R.Cun,134,/143/138/142/134/86,white,5
+87,Lingual_Gyrus ,L.LG,134,/143/138/142/134/87,white,5
+88,Lingual_Gyrus ,R.LG,134,/143/138/142/134/88,white,5
+89,Calcarine_Area,L.Calc,134,/143/138/142/134/89,white,5
+90,Calcarine_Area,R.Calc,134,/143/138/142/134/90,white,5
+91,Superior_Occipital_Gyrus ,L.sOG,134,/143/138/142/134/91,white,5
+92,Superior_Occipital_Gyrus ,R.sOG,134,/143/138/142/134/92,white,5
+93,Middle_Occipital_Gyrus ,L.mOG,134,/143/138/142/134/93,white,5
+94,Middle_Occipital_Gyrus ,R.mOG,134,/143/138/142/134/94,white,5
+95,Inferior_Occipital_Gyrus ,L.iOG,134,/143/138/142/134/95,white,5
+96,Inferior_Occipital_Gyrus ,R.iOG,134,/143/138/142/134/96,white,5
+97,Caudate_Nuclues ,L.CN,141,/143/138/136/141/97,white,5
+98,Caudate_Nuclues ,R.CN,141,/143/138/136/141/98,white,5
+99,Nucleus_Accumbens ,L.NA,141,/143/138/136/141/99,white,5
+100,Nucleus_Accumbens ,R.NA,141,/143/138/136/141/100,white,5
+101,Basal_Forebrain_Nuclei ,L.BF,141,/143/138/136/141/101,white,5
+102,Basal_Forebrain_Nuclei ,R.BF,141,/143/138/136/141/102,white,5
+103,Putamen ,L.Pu,141,/143/138/136/141/103,white,5
+104,Putamen ,R.Pu,141,/143/138/136/141/104,white,5
+105,Globus_pallidus ,L.GP,136,/143/138/136/105,white,4
+106,Globus_pallidus ,R.GP,136,/143/138/136/106,white,4
+107,Thalamus ,L.Th,139,/143/139/107,white,3
+108,Thalamus ,R.Th,139,/143/139/108,white,3
+109,Hypothalamus ,L.HTh,139,/143/139/109,white,3
+110,Hypothalamus ,R.HTh,139,/143/139/110,white,3
+111,Cerebellum_IX-Tonsil ,L.CerIX,137,/143/140/137/111,white,4
+112,Cerebellum_IX-Tonsil ,R.CerIX,137,/143/140/137/112,white,4
+113,Cerebellum_VIIIAB-Inferior_Posterior_Lobe-PML ,L.CerVIII,137,/143/140/137/113,white,4
+114,Cerebellum_VIIIAB-Inferior_Posterior_Lobe-PML ,R.CerVIII,137,/143/140/137/114,white,4
+115,Cerebellum_VIIA-Superior_Posterior_Lobe-Crus_I_of_Ansiform_Lobule ,L.CrusI,137,/143/140/137/115,white,4
+116,Cerebellum_VIIA-Superior_Posterior_Lobe-Crus_I_of_Ansiform_Lobule ,R.CrusI,137,/143/140/137/116,white,4
+117,Cerebellum_VIIA-Superior_Posterior_Lobe-Crus_II_of_Ansiform_Lobule_with_Paramedian_1 ,L.CrusII,137,/143/140/137/117,white,4
+118,Cerebellum_VIIA-Superior_Posterior_Lobe-Crus_II_of_Ansiform_Lobule_with_Paramedian_1 ,R.CrusII,137,/143/140/137/118,white,4
+119,Cerebellum_VI-Superior_Posterior_Lobe ,L.CerVI,137,/143/140/137/119,white,4
+120,Cerebellum_VI-Superior_Posterior_Lobe ,R.CerVI,137,/143/140/137/120,white,4
+121,Cerebellum_V-Anterior_Lobe_B ,L.CerVB,137,/143/140/137/121,white,4
+122,Cerebellum_V-Anterior_Lobe_B ,R.CerVB,137,/143/140/137/122,white,4
+123,Cerebellum_V-Anterior_Lobe_A ,L.CerVA,137,/143/140/137/123,white,4
+124,Cerebellum_V-Anterior_Lobe_A ,R.CerVA,137,/143/140/137/124,white,4
+125,Cerebellum_IV-Anterior_Quadrangulate_Lobe ,L.CerIV,137,/143/140/137/125,white,4
+126,Cerebellum_IV-Anterior_Quadrangulate_Lobe ,R.CerIV,137,/143/140/137/126,white,4
+127,Cerebellum_III-Anterior_Quadrangulate_Lobe ,L.CerIII,137,/143/140/137/127,white,4
+128,Cerebellum_III-Anterior_Quadrangulate_Lobe ,R.CerIII,137,/143/140/137/128,white,4
+129,Cerebellum_II-Anterior_Quadrangulate_Lobe ,L.CerII,137,/143/140/137/129,white,4
+130,Cerebellum_II-Anterior_Quadrangulate_Lobe ,R.CerII,137,/143/140/137/130,white,4
+131,Frontal Lobe,FL,142,/142/138/142/131,white,4
+132,Limbic Lobe,LL,142,/142/138/142/132,white,4
+133,Parietal Lobe,PL,142,/142/138/142/133,white,4
+134,Occipital Lobe,OL,142,/142/138/142/134,white,4
+135,Temporal lobe,TL,142,/142/138/142/135,white,4
+136,Basal Ganglia,BG,138,/142/138/136,white,3
+137,Cerebellum,CB,140,/143/140/137/,white,3
+138,Telencephalon,Tel,143,/143/138/,white,2
+139,Diencephalon,Die,143,/143/139/,white,2
+140,Metencephalon,Met,143,/143/140/,white,2
+141,Striatum,STR,136,/143/138/136/141/,white,5
+142,Cerebral Cortex,Cx,138,/143/138/142/,white,3
+143,Brain,Br,143,NA,white,1
+144,Insula,Ins,138,/143/138/144,white,3

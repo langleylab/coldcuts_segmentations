@@ -1,0 +1,114 @@
+﻿id,name,acronym,parent_structure_id,structure_id_path,col,graph_depth
+1,hippocampus_R,HIP_R,96,/113/96/1/,#B84ED7,3
+2,hippocampus_L,HIP_L,96,/113/96/2/,#B4A570,3
+3,amygdala_R,AMY_R,97,/113/98/97/3/,#E5DE3B,4
+4,amygdala_L,AMY_L,97,/113/98/97/4/,#F2DBBD,4
+5,"ant. temp. lobe, med._R",ATLM_R,101,/113/98/99/101/5/,#4e820a,5
+6,"ant. temp. lobe, med._L",ATLM_L,101,/113/98/99/101/6/,#7ae2b3,5
+7,"ant. temp. lobe, lat._R",ATLL_R,101,/113/98/99/101/7/,#9dfc28,5
+8,"ant. temp. lobe, lat._L",ATLL_L,101,/113/98/99/101/8/,#0f9e71,5
+9,parahippocampal gyr._R,PHG_R,100,/113/98/99/100/9/,#f5f7a5,5
+10,parahippocampal gyr._L,PHG_L,100,/113/98/99/100/10/,#cfd604,5
+11,"sup. temp. gyr., post._R",STGP_R,101,/113/98/99/101/11/,#6ace46,5
+12,"sup. temp. gyr., post._L",STGP_L,101,/113/98/99/101/12/,#baf95c,5
+13,middle & inf. temp. gyr._R,MITG_R,101,/113/98/99/101/13/,#a6d800,5
+14,middle & inf. temp. gyr._L,MITG_L,101,/113/98/99/101/14/,#0b7f22,5
+15,fusiform gyr._R,FuG_R,101,/113/98/99/101/15/,#a5f7cb,5
+16,fusiform gyr._L,FuG_L,101,/113/98/99/101/16/,#c9db64,5
+17,cerebellum_R,CB_R,102,/113/102/8/,#8DEE99,3
+18,cerebellum_L,CB_L,102,/113/102/8/,#6AED6B,3
+19,brainstem,BS,113,/113/19/,#C9F0B9,2
+20,"insula, post. long gyr._L",IPLG_L,104,/113/98/99/104/20/,#edd5a6,5
+21,"insula, post. long gyr._R",IPLG_R,104,/113/98/99/104/21/,#d18112,5
+22,occipital lobe_L,OL_L,105,/113/98/99/105/22/,#bc6df2,5
+23,occipital lobe_R,OL_R,105,/113/98/99/105/23/,#28016d,5
+24,"cingulate gyrus, ant._L",CgGA_L,100,/113/98/99/105/24/,#eff232,5
+25,"cingulate gyrus, ant._R",CgGA_R,100,/113/98/99/105/25/,#e5c654,5
+26,"cingulate gyrus, post._L",CgGP_L,100,/113/98/99/100/26/,#f9f375,5
+27,"cingulate gyrus, post._R",CgGP_R,100,/113/98/99/100/27/,#e0ca21,5
+28,middle frontal gyr._L,MFG_L,106,/113/98/99/106/28/,#f25479,5
+29,middle frontal gyr._R,MFG_R,106,/113/98/99/106/29/,#ff5614,5
+30,post. temp. lobe_L,PTL_L,101,/113/98/99/101/30/,#58dd6c,5
+31,post. temp. lobe_R,PTL_R,101,/113/98/99/101/31/,#65ede4,5
+32,angular gyr._L,AnG_L,107,/113/98/99/107/32/,#8791C9,5
+33,angular gyr._R,AnG_R,107,/113/98/99/107/33/,#4D95ED,5
+34,caudate nucleus_L,CaN_L,110,/113/98/97/109/110/34/,#de28ff,6
+35,caudate nucleus_R,CaN_R,110,/113/98/97/109/110/35/,#df14e2,6
+36,nucleus accumbens_L,NAC_L,110,/113/98/97/109/110/36/,#e28eb7,6
+37,nucleus accumbens_R,NAC_R,110,/113/98/97/109/110/37/,#b746d6,6
+38,putamen_L,Pu_L,110,/113/98/97/107/109/38/,#f427c1,6
+39,putamen_R,Pu_R,110,/113/98/97/107/109/39/,#a108dd,6
+40,thalamus_L,TH_L,96,/113/96/40/,#607BD8,3
+41,thalamus_R,TH_R,96,/113/96/41/,#A9AFBB,3
+42,pallidum_L,Pal_L,109,/113/98/97/107/109/42/,#50B842,6
+43,pallidum_R,Pal_R,109,/113/98/97/107/109/43/,#C7C9B1,6
+44,corpus callosum,CC,114,/113/114/44/,#cccccc,3
+45,"lat. ventricle, main_R",LVM_R,114,/113/114/45/,#262626,3
+46,"lat. ventricle, main_L",LVM_L,114,/113/114/46/,#a0a0a0,3
+47,"lat. ventricle, temp. horn_R",LVTH_R,114,/113/114/47/,#515151,3
+48,"lat. ventricle, temp. horn_L",LVTH_L,114,/113/114/48/,#707070,3
+49,third ventricle,3V,114,/113/114/49/,#444444,3
+50,precentral gyr._L,PreCG_L,106,/113/98/99/106/50/,#a5093d,5
+51,precentral gyr._R,PreCG_R,106,/113/98/99/106/51/,#ffb5c7,5
+52,straight gyr._L,SG_L,106,/113/98/99/106/52/,#e26184,5
+53,straight gyr._R,SG_R,106,/113/98/99/106/53/,#e07950,5
+54,ant. orbital gyr._L,AOrG_L,106,/113/98/99/106/54/,#f2b3bc,5
+55,ant. orbital gyr._R,AOrG_R,106,/113/98/99/106/55/,#f28cac,5
+56,inf. frontal gyr._L,IFG_L,106,/113/98/99/106/56/,#ed8e7b,5
+57,inf. frontal gyr._R,IFG_R,106,/113/98/99/106/57/,#a8451a,5
+58,sup. frontal gyr._L,SFG_L,106,/113/98/99/106/58/,#fc8c7b,5
+59,sup. frontal gyr._R,SFG_R,106,/113/98/99/106/59/,#f25e80,5
+60,postcentral gyr._L,PoCG_L,107,/113/98/99/107/60/,#bed5f7,5
+61,postcentral gyr._R,PoCG_R,107,/113/98/99/107/61/,#76bde0,5
+62,sup. parietal gyr._L,SPG_L,107,/113/98/99/107/62/,#3283d3,5
+63,sup. parietal gyr._R,SPG_R,107,/113/98/99/107/63/,#5081ba,5
+64,lingual gyr._L,LiG_L,105,/113/98/99/105/64/,#e2b5ff,5
+65,lingual gyr._R,LiG_R,105,/113/98/99/105/65/,#cea1ed,5
+66,cuneus_L,Cun_L,105,/113/98/99/105/66/,#7f56dd,5
+67,cuneus_R,Cun_R,105,/113/98/99/105/67/,#e0c1ff,5
+68,med. orbital gyr._L,MOrG_L,106,/113/98/99/106/68/,#f7a8b2,5
+69,med. orbital gyr._R,MOrG_R,106,/113/98/99/106/69/,#f47246,5
+70,lat. orbital gyr._L,LOrG_L,106,/113/98/99/106/70/,#ef5517,5
+71,lat. orbital gyr._R,LOrG_R,106,/113/98/99/106/71/,#a80f37,5
+72,post. orbital gyr._L,POrG_L,106,/113/98/99/106/72/,#e82070,5
+73,post. orbital gyr._R,POrG_R,106,/113/98/99/106/73/,#bf251a,5
+74,substantia nigra_L,SN_L,112,/113/111/112/74/,#B56ACC,4
+75,substantia nigra_R,SN_R,112,/113/111/112/75/,#6856B4,4
+76,subgenual frontal cort._L,SGFC_L,106,/113/98/99/106/76/,#fc5d6d,5
+77,subgenual frontal cort._R,SGFC_R,106,/113/98/99/106/77/,#e53330,5
+78,subcallosal area_L,SCA_L,100,/113/98/99/100/78/,#e7ef04,5
+79,subcallosal area_R,SCA_R,100,/113/98/99/100/79/,#d8db41,5
+80,pre-subgenual frontal cort._L,PrSGFC_L,106,/113/98/99/106/80/,#ef9eab,5
+81,pre-subgenual frontal cort._R,PrSGFC_R,106,/113/98/99/106/81/,#f96d9c,5
+82,"sup. temp. gyr., ant._L",STGA_L,101,/113/98/99/101/82/,#5bea02,5
+83,"sup. temp. gyr., ant._R",STGA_R,101,/113/98/99/101/83/,#4ed857,5
+84,supramarginal gyr._L,SMG_L,107,/113/98/99/107/84/,#89c2f4,5
+85,supramarginal gyr._R,SMG_R,107,/113/98/99/107/85/,#7286e0,5
+86,"insula, ant. short gyr._L",InASG_L,104,/113/98/99/104/86/,#e2be7a,5
+87,"insula, ant. short gyr._R",InASG_R,104,/113/98/99/104/87/,#d86631,5
+88,"insula, middle short gyr._L",InMSG_L,104,/113/98/99/104/88/,#e2b97f,5
+89,"insula, middle short gyr._R",InMSG_R,104,/113/98/99/104/89/,#edca57,5
+90,"insula, post. short gyr._L",InPSG_L,104,/113/98/99/104/90/,#dd9d66,5
+91,"insula, post. short gyr._R",InPSG_R,104,/113/98/99/104/91/,#d3753b,5
+92,"insula, ant. inf. cort._L",InAIC_L,104,/113/98/99/104/92/,#fce6ab,5
+93,"insula, ant. inf. cort._R",InAIC_R,104,/113/98/99/104/93/,#eacc85,5
+94,"insula, ant. long gyr._L",InALG_L,104,/113/98/99/104/94/,#f9d3b1,5
+95,"insula, ant. long gyr._R",InALG_R,104,/113/98/99/104/95/,#f2d16f,5
+96,diencephalon,Die,113,/113/96/,white,2
+97,cerebral nuclei,CxN,98,/113/98/97/,white,3
+98,telecenphalon,Tel,113,/113/98/,white,2
+99,cerebral cortex,Cx,98,/113/98/99/,white,3
+100,limbic lobe,LL,99,/113/99/100/,white,3
+101,temporal lobe,TL,99,/113/98/99/101/,white,4
+102,cerebellum,CB,103,/113/103/102/,white,3
+103,metencephalon,MET,113,/113/103/,white,2
+104,insula,Ins,99,/113/98/99/104/,white,4
+105,occipital lobe,OL,99,/113/98/99/105/,white,4
+106,frontal lobe,FL,99,/113/98/99/106/,white,4
+107,parietal lobe,PL,99,/113/98/99/107/,white,4
+109,basal ganglia,BG,97,/113/98/97/109/,white,4
+110,striatum,STR,109,/113/98/97/109/110/,white,5
+111,mesencephalon,MES,113,/113/111/,white,2
+112, midbrain tegmentum,MTg,111,/113/111/112/,white,3
+113,brain,Br,113,NA,white,1
+114,white matter,WM,113,/113/114/,white,2

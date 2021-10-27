@@ -1,0 +1,193 @@
+﻿id,name,acronym,parent_structure_id,structure_id_path,depth,col
+1,Primary Visual Cortex,V1,182,/191/190/189/182/1/,5,white
+2,Medial Superior Temporal Area,MST,183,/191/190/189/183/2/,5,white
+3,Sixth Visual Area,V6,182,/191/190/189/182/3/,5,white
+4,Second Visual Area,V2,182,/191/190/189/182/4/,5,white
+5,Third Visual Area,V3,182,/191/190/189/182/5/,5,white
+6,Fourth Visual Area,V4,182,/191/190/189/182/6/,5,white
+7,Eighth Visual Area,V8,182,/191/190/189/182/7/,5,white
+8,Primary Motor Cortex,4,181,/191/190/189/181/8/,5,white
+9,Primary Sensory Cortex,3b,184,/191/190/189/184/9/,5,white
+10,Frontal Eye Fields,FEF,181,/191/190/189/181/10/,5,white
+11,Premotor Eye Field,PEF,181,/191/190/189/181/11/,5,white
+12,Area 55b,55b,181,/191/190/189/181/12/,5,white
+13,Area V3A,V3A,182,/191/190/189/182/13/,5,white
+14,RetroSplenial Complex,RSC,185,/191/190/189/185/14/,5,white
+15,Parieto-Occipital Sulcus Area 2,POS2,187,/191/190/189/187/15/,5,white
+16,Seventh Visual Area,V7,182,/191/190/189/182/16/,5,white
+17,IntraParietal Sulcus Area 1,IPS1,184,/191/190/189/184/17/,5,white
+18,Fusiform Face Complex,FFC,183,/191/190/189/183/18/,5,white
+19,Area V3B,V3B,182,/191/190/189/182/19/,5,white
+20,Area Lateral Occipital 1,LO1,182,/191/190/189/182/20/,5,white
+21,Area Lateral Occipital 2,LO2,182,/191/190/189/182/21/,5,white
+22,Posterior InferoTemporal,PIT,183,/191/190/189/183/22/,5,white
+23,Middle Temporal Area,MT,183,/191/190/189/183/23/,5,white
+24,Primary Auditory Cortex,A1,183,/191/190/189/183/24/,5,white
+25,PeriSylvian Language Area,PSL,187,/191/190/189/187/25/,5,white
+26,Superior Frontal Language Area,SFL,187,/191/190/189/187/26/,5,white
+27,PreCuneus Visual Area,PCV,184,/191/190/189/184/27/,5,white
+28,Superior Temporal Visual Area,STV,183,/191/190/189/183/28/,5,white
+29,Medial Area 7P,7Pm,184,/191/190/189/184/29/,5,white
+30,Area 7m,7m,184,/191/190/189/184/30/,5,white
+31,Parieto-Occipital Sulcus Area 1,POS1,187,/191/190/189/187/31/,5,white
+32,Area 23d,23d,184,/191/190/189/184/32/,5,white
+33,Area ventral 23 a+b,v23ab,184,/191/190/189/184/33/,5,white
+34,Area dorsal 23 a+b,d23ab,184,/191/190/189/184/34/,5,white
+35,Area 31p ventral,31pv,184,/191/190/189/184/35/,5,white
+36,Area 5m,5m,184,/191/190/189/184/36/,5,white
+37,Area 5m ventral,5mv,184,/191/190/189/184/37/,5,white
+38,Area 23c,23c,184,/191/190/189/184/38/,5,white
+39,Area 5L,5L,184,/191/190/189/184/39/,5,white
+40,Dorsal Area 24d,24dd,185,/191/190/189/185/40/,5,white
+41,Ventral Area 24d,24dv,185,/191/190/189/185/41/,5,white
+42,Lateral Area 7A,7AL,184,/191/190/189/184/42/,5,white
+43,Supplementary and Cingulate Eye Field,SCEF,181,/191/190/189/181/43/,5,white
+44,Area 6m anterior,6ma,181,/191/190/189/181/44/,5,white
+45,Medial Area 7A,7Am,184,/191/190/189/184/45/,5,white
+46,Lateral Area 7P,7PL,184,/191/190/189/184/46/,5,white
+47,Area 7PC,7PC,184,/191/190/189/184/47/,5,white
+48,Area Lateral IntraPArietal ventral,LIPv,184,/191/190/189/184/48/,5,white
+49,Ventral IntraParietal Complex,VIP,184,/191/190/189/184/49/,5,white
+50,Medial IntraParietal Complex,MIP,184,/191/190/189/184/50/,5,white
+51,Area 1,1,184,/191/190/189/184/51/,5,white
+52,Area 2,2,184,/191/190/189/184/52/,5,white
+53,Area 3a,3a,184,/191/190/189/184/53/,5,white
+54,Dorsal Area 6,6d,181,/191/190/189/181/54/,5,white
+55,Area 6mp,6mp,181,/191/190/189/181/55/,5,white
+56,Ventral Area 6,6v,181,/191/190/189/181/56/,5,white
+57,Area Posterior 24 prime,p24pr,185,/191/190/189/185/57/,5,white
+58,Area 33 prime,33pr,185,/191/190/189/185/58/,5,white
+59,Anterior 24 prime,a24pr,185,/191/190/189/185/59/,5,white
+60,Area p32 prime,p32pr,185,/191/190/189/185/60/,5,white
+61,Area a24,a24,185,/191/190/189/185/61/,5,white
+62,Area dorsal 32,d32,185,/191/190/189/185/62/,5,white
+63,Area 8BM,8BM,181,/191/190/189/181/63/,5,white
+64,Area p32,p32,185,/191/190/189/185/64/,5,white
+65,Area 10r,10r,181,/191/190/189/181/65/,5,white
+66,Area 47m,47m,181,/191/190/189/181/66/,5,white
+67,Area 8Av,8Av,181,/191/190/189/181/67/,5,white
+68,Area 8Ad,8Ad,181,/191/190/189/181/68/,5,white
+69,Area 9 middle,9m,181,/191/190/189/181/69/,5,white
+70,Area 8B Lateral,8BL,181,/191/190/189/181/70/,5,white
+71,Area 9 Posterior,9p,181,/191/190/189/181/71/,5,white
+72,Area 10d,10d,181,/191/190/189/181/72/,5,white
+73,Area 8C,8C,181,/191/190/189/181/73/,5,white
+74,Area 44,44,181,/191/190/189/181/74/,5,white
+75,Area 45,45,181,/191/190/189/181/75/,5,white
+76,Area 47 Lateral,47l,181,/191/190/189/181/76/,5,white
+77,Area anterior 47r,a47r,181,/191/190/189/181/77/,5,white
+78,Rostral Area 6,6r,181,/191/190/189/181/78/,5,white
+79,Area IFJa,IFJa,181,/191/190/189/181/79/,5,white
+80,Area IFJp,IFJp,181,/191/190/189/181/80/,5,white
+81,Area IFSp,IFSp,181,/191/190/189/181/81/,5,white
+82,Area IFSa,IFSa,181,/191/190/189/181/82/,5,white
+83,Area posterior 9-46v,p9-46v,181,/191/190/189/181/83/,5,white
+84,Area 46,46,181,/191/190/189/181/84/,5,white
+85,Aarea anterior 9-46v,a9-46v,181,/191/190/189/181/85/,5,white
+86,Area 9-46d,9-46d,181,/191/190/189/181/86/,5,white
+87,Area 9 anterior,9a,181,/191/190/189/181/87/,5,white
+88,Area 10v,10v,181,/191/190/189/181/88/,5,white
+89,Area anterior 10p,a10p,181,/191/190/189/181/89/,5,white
+90,Polar 10p,10pp,181,/191/190/189/181/90/,5,white
+91,Area 11l,11l,181,/191/190/189/181/91/,5,white
+92,Area 13l,13l,181,/191/190/189/181/92/,5,white
+93,Orbital Frontal Complex,OFC,181,/191/190/189/181/93/,5,white
+94,Area 47s,47s,181,/191/190/189/181/94/,5,white
+95,Area Lateral IntraPArietal dorsal,LIPd,184,/191/190/189/184/95/,5,white
+96,Area 6 anterior,6a,181,/191/190/189/181/96/,5,white
+97,Inferior 6-8 Transitional Area,i6-8,187,/191/190/189/187/97/,5,white
+98,Superior 6-8 Transitional Area,s6-8,187,/191/190/189/187/98/,5,white
+99,Area 43,43,184,/191/190/189/184/99/,5,white
+100,Area OP4/PV,OP4,184,/191/190/189/184/100/,5,white
+101,Area OP1/SII,OP1,184,/191/190/189/184/101/,5,white
+102,Area OP2-3/VS,OP2-3,184,/191/190/189/184/102/,5,white
+103,Area 52,52,183,/191/190/189/183/103/,5,white
+104,RetroInsular Cortex,RI,186,/191/190/189/186/104/,5,white
+105,Area PFcm,PFcm,184,/191/190/189/184/105/,5,white
+106,Posterior Insular Area 2,PoI2,186,/191/190/189/186/106/,5,white
+107,Area TA2,TA2,183,/191/190/189/183/107/,5,white
+108,Frontal Opercular Area 4,FOP4,181,/191/190/189/181/108/,5,white
+109,Middle Insular Area,MI,186,/191/190/189/186/109/,5,white
+110,Piriform Cortex,Pir,187,/191/190/189/187/110/,5,white
+111,Anterior Ventral Insular Area,AVI,186,/191/190/189/186/111/,5,white
+112,Anterior Agranular Insula Complex,AAIC,186,/191/190/189/186/112/,5,white
+113,Frontal Opercular Area 1,FOP1,181,/191/190/189/181/113/,5,white
+114,Frontal Opercular Area 3,FOP3,181,/191/190/189/181/114/,5,white
+115,Frontal Opercular Area 2,FOP2,181,/191/190/189/181/115/,5,white
+116,Area PFt,PFt,184,/191/190/189/184/116/,5,white
+117,Anterior IntraParietal Area,AIP,184,/191/190/189/184/117/,5,white
+118,Entorhinal Cortex,EC,183,/191/190/189/183/118/,5,white
+119,PreSubiculum,PreS,183,/191/190/189/183/119/,5,white
+120,Hippocampus,H,188,/191/192/188/120/,5,white
+121,ProStriate Area,ProS,187,/191/190/189/187/121/,5,white
+122,Perirhinal Ectorhinal Cortex,PeEc,183,/191/190/189/183/122/,5,white
+123,Area STGa,STGa,183,/191/190/189/183/123/,5,white
+124,ParaBelt Complex,PBelt,183,/191/190/189/183/124/,5,white
+125,Auditory 5 Complex,A5,183,/191/190/189/183/125/,5,white
+126,ParaHippocampal Area 1,PHA1,185,/191/190/189/185/126/,5,white
+127,ParaHippocampal Area 3,PHA3,185,/191/190/189/185/127/,5,white
+128,Area STSd anterior,STSda,183,/191/190/189/183/128/,5,white
+129,Area STSd posterior,STSdp,183,/191/190/189/183/129/,5,white
+130,Area STSv posterior,STSvp,183,/191/190/189/183/130/,5,white
+131,Area TG dorsal,TGd,183,/191/190/189/183/131/,5,white
+132,Area TE1 anterior,TE1a,183,/191/190/189/183/132/,5,white
+133,Area TE1 posterior,TE1p,183,/191/190/189/183/133/,5,white
+134,Area TE2 anterior,TE2a,183,/191/190/189/183/134/,5,white
+135,Area TF,TF,183,/191/190/189/183/135/,5,white
+136,Area TE2 posterior,TE2p,183,/191/190/189/183/136/,5,white
+137,Area PHT,PHT,183,/191/190/189/183/137/,5,white
+138,Area PH,PH,183,/191/190/189/183/138/,5,white
+139,Area TemporoParietoOccipital Junction 1,TPOJ1,187,/191/190/189/187/139/,5,white
+140,Area TemporoParietoOccipital Junction 2,TPOJ2,187,/191/190/189/187/140/,5,white
+141,Area TemporoParietoOccipital Junction 3,TPOJ3,187,/191/190/189/187/141/,5,white
+142,Dorsal Transitional Visual Area,DVT,187,/191/190/189/187/142/,5,white
+143,Area PGp,PGp,184,/191/190/189/184/143/,5,white
+144,Area IntraParietal 2,IP2,184,/191/190/189/184/144/,5,white
+145,Area IntraParietal 1,IP1,184,/191/190/189/184/145/,5,white
+146,Area IntraParietal 0,IP0,184,/191/190/189/184/146/,5,white
+147,Area PF opercular,PFop,184,/191/190/189/184/147/,5,white
+148,Area PF Complex,PF,184,/191/190/189/184/148/,5,white
+149,Area PFm Complex,PFm,184,/191/190/189/184/149/,5,white
+150,Area PGi,PGi,184,/191/190/189/184/150/,5,white
+151,Area PGs,PGs,184,/191/190/189/184/151/,5,white
+152,Area V6A,V6A,184,/191/190/189/184/152/,5,white
+153,VentroMedial Visual Area 1,VMV1,182,/191/190/189/182/153/,5,white
+154,VentroMedial Visual Area 3,VMV3,182,/191/190/189/182/154/,5,white
+155,ParaHippocampal Area 2,PHA2,185,/191/190/189/185/155/,5,white
+156,Area V4t,V4t,182,/191/190/189/182/156/,5,white
+157,Area FST,FST,182,/191/190/189/182/157/,5,white
+158,Area V3CD,V3CD,182,/191/190/189/182/158/,5,white
+159,Area Lateral Occipital 3,LO3,182,/191/190/189/182/159/,5,white
+160,VentroMedial Visual Area 2,VMV2,182,/191/190/189/182/160/,5,white
+161,Area 31pd,31pd,185,/191/190/189/185/161/,5,white
+162,Area 31a,31a,185,/191/190/189/185/162/,5,white
+163,Ventral Visual Complex,VVC,182,/191/190/189/182/163/,5,white
+164,Area 25,25,185,/191/190/189/185/164/,5,white
+165,Area s32,s32,185,/191/190/189/185/165/,5,white
+166,posterior OFC Complex,pOFC,181,/191/190/189/181/166/,5,white
+167,Area Posterior Insular 1,PoI1,186,/191/190/189/186/167/,5,white
+168,Insular Granular Complex,Ig,186,/191/190/189/186/168/,5,white
+169,Area Frontal Opercular 5,FOP5,181,/191/190/189/181/169/,5,white
+170,Area posterior 10p,p10p,181,/191/190/189/181/170/,5,white
+171,Area posterior 47r,p47r,181,/191/190/189/181/171/,5,white
+172,Area TG Ventral,TGv,183,/191/190/189/183/172/,5,white
+173,Medial Belt Complex,MBelt,183,/191/190/189/183/173/,5,white
+174,Lateral Belt Complex,LBelt,183,/191/190/189/183/174/,5,white
+175,Auditory 4 Complex,A4,183,/191/190/189/183/175/,5,white
+176,Area STSv anterior,STSva,183,/191/190/189/183/176/,5,white
+177,Area TE1 Middle,TE1m,183,/191/190/189/183/177/,5,white
+178,Para-Insular Area,PI,186,/191/190/189/186/178/,5,white
+179,Area anterior 32 prime,a32pr,185,/191/190/189/185/179/,5,white
+180,Area posterior 24,p24,185,/191/190/189/185/180/,5,white
+181,Frontal Lobe,FL,189,/191/190/189/181/,4,white
+182,Occipital Lobe,OL,189,/191/190/189/182/,4,white
+183,Temporal Lobe,TL,189,/191/190/189/183/,4,white
+184,Parietal Lobe,PL,189,/191/190/189/184/,4,white
+185,Limbic Lobe,LL,189,/191/190/189/185/,4,white
+186,Insula,Ins,189,/191/190/189/186/,4,white
+187,Other,Ot,189,/191/190/189/187/,4,white
+188,Hippocampus,Hip,192,/191/190/189/188/,4,white
+189,Cerebral cortex,Cx,190,/191/190/189/,3,white
+190,Telencephalon,Tel,191,/191/190/,2,white
+191,Brain,Br,191,NA,1,white
+192,Diencephalon,Die,191,/191/192/,2,white
