@@ -5,7 +5,7 @@ Many institutions have published their own segmentations as NIfTI, NRRD or RAW f
 
 In this table we curate a few segmentations including their source(s), and link (in the **files** field of the table) to their folders in this repository.
 
-| Name | Organism | Source | Format | Reference space | Voxel dimension | Orientation | Ontology | Files | Citation | 
+| Name | Organism | Source | Format | Ref. space | Voxel dim. | Dir. | Ontology | Files | Ref | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ABA Human Half | _H. sapiens_ | [source](https://community.brain-map.org/t/allen-human-reference-atlas-3d-2020-new/405) | NIfTI | MNI152 | 500 &mu;m | RAS | [ontology](http://help.brain-map.org/display/api/Downloading+an+Ontology%27s+Structure+Graph) | [files](https://github.com/langleylab/coldcuts_segmentations/tree/main/ABA_Human_full) | [Ding et al.](https://pubmed.ncbi.nlm.nih.gov/27418273/) _J. Comp. Neurol._ 2016 |
 | ABA Human Full | _H. sapiens_ | [source](https://community.brain-map.org/t/allen-human-reference-atlas-3d-2020-new/405) | NIfTI | MNI152 | 500 &mu;m | RAS | [ontology](http://help.brain-map.org/display/api/Downloading+an+Ontology%27s+Structure+Graph) | [files](https://github.com/langleylab/coldcuts_segmentations/tree/main/ABA_Human_half) | [Ding et al.](https://pubmed.ncbi.nlm.nih.gov/27418273/) _J. Comp. Neurol._ 2016 |
@@ -26,6 +26,24 @@ It contains 141 annotated structures, both subcortical and cortical. The structu
 
 The RDS file contains the `segmentation` class object, with maximum projections for all structures in all planes.
 
+<p float="left">
+  <img src="https://github.com/langleylab/coldcuts_segmentations/blob/main/ABA_Human_half/ABA_Human_half_sagittal_mp.png" width="450" />
+  <img src="https://github.com/langleylab/coldcuts_segmentations/blob/main/ABA_Human_full/ABA_Human_full_sagittal_mp.png" width="450" /> 
+ </p>
+
+<p float="left"> 
+  <img src="https://github.com/langleylab/coldcuts_segmentations/blob/main/ABA_Human_half/ABA_Human_half_coronal_mp.png" width="450" />
+  <img src="https://github.com/langleylab/coldcuts_segmentations/blob/main/ABA_Human_full/ABA_Human_full_coronal_mp.png" width="450" /> 
+</p>
+
+<p float="left"> 
+  <img src="https://github.com/langleylab/coldcuts_segmentations/blob/main/ABA_Human_half/ABA_Human_half_axial_mp.png" width="450" />
+  <img src="https://github.com/langleylab/coldcuts_segmentations/blob/main/ABA_Human_full/ABA_Human_full_axial_mp.png" width="450" /> 
+</p>
+
+<p align="center">
+  <img src="https://github.com/langleylab/coldcuts_segmentations/blob/main/ABA_Human_half/ABA_Human_ontology.png" width="900" />
+</p>
 
 ## Hammersmith Atlas
 
@@ -35,6 +53,14 @@ It contains 95 annotated structures, both cortical and subcortical, divided in l
 
 The RDS file contains the `segmentation` class object, with maximum projections for all structures in all planes.
 
+<p align="center">
+  <img src="https://github.com/langleylab/coldcuts_segmentations/blob/main/Hammersmith/Hammersmith_Human_sagittal_mp.png" width="600" />
+  <img src="https://github.com/langleylab/coldcuts_segmentations/blob/main/Hammersmith/Hammersmith_Human_coronal_mp.png" width="600" /> 
+  <img src="https://github.com/langleylab/coldcuts_segmentations/blob/main/Hammersmith/Hammersmith_Human_axial_mp.png" width="600" />
+  <img src="https://github.com/langleylab/coldcuts_segmentations/blob/main/Hammersmith/Hammersmith_Human_ontology.png" width="900" />
+</p>
+
+
 ## HCP MMP 1.0
 
 This segmentation was released by the Department of Neuroscience, Washington University Medical School, St. Louis, MO, USA as a volume file and is based on the work by Glasser et al. It contains the full cerebrum, registered to the MNI152 reference space. As explained [here](https://figshare.com/articles/dataset/HCP-MMP1_0_projected_on_MNI2009a_GM_volumetric_in_NIfTI_format/3501911?file=5534024) it should be **used with care**.
@@ -42,6 +68,13 @@ This segmentation was released by the Department of Neuroscience, Washington Uni
 It contains 180 annotated structures, only cortical. The structure ontology is custom, largely based on the Supplementary Table A2 from Glasser et al. and grouped according to lobes and brain developmental origin. **Please note that custom ontologies may not be correct in their higher order grouping**. The segmentation follows a "hierarchical random" color scheme.
 
 The RDS file contains the `segmentation` class object, with maximum projections for all structures in all planes.
+
+<p align="center">
+  <img src="https://github.com/langleylab/coldcuts_segmentations/blob/main/HCP_MMP/HCP_MMP1_Human_sagittal_mp.png" width="600" />
+  <img src="https://github.com/langleylab/coldcuts_segmentations/blob/main/HCP_MMP/HCP_MMP1_Human_coronal_mp.png" width="600" /> 
+  <img src="https://github.com/langleylab/coldcuts_segmentations/blob/main/HCP_MMP/HCP_MMP1_Human_axial_mp.png" width="600" />
+  <img src="https://github.com/langleylab/coldcuts_segmentations/blob/main/HCP_MMP/HCP_MMP1_Human_ontology.png" width="900" />
+</p>
 
 ## ABA Mouse CCF2017
 
@@ -60,11 +93,24 @@ It contains  annotated structures, divided in left and right. The structure onto
 
 The RDS file contains the `segmentation` class object, with maximum projections for all structures in all planes.
 
+<p align="center">
+  <img src="https://github.com/langleylab/coldcuts_segmentations/blob/main/Drosophila_JRC2010/Drosophila_JRC2010_sagittal_mp.png" width="600" />
+  <img src="https://github.com/langleylab/coldcuts_segmentations/blob/main/Drosophila_JRC2010/Drosophila_JRC2010_coronal_mp.png" width="600" /> 
+  <img src="https://github.com/langleylab/coldcuts_segmentations/blob/main/Drosophila_JRC2010/Drosophila_JRC2010_axial_mp.png" width="600" />
+  <img src="https://github.com/langleylab/coldcuts_segmentations/blob/main/Drosophila_JRC2010/Drosophila_JRC2010_ontology.png" width="900" />
+</p>
 
 ## Chimpanzee Davi130 Juna.Chimp
 
 This segmentation was released by the National Chimpanzee Brain Resource (USA) as a volume file, registered to the Juna.Chimp reference space. It is based on the work by Vickery et al. It contains  annotated structures, divided in left and right. The structure ontology is custom, largely based on the Table 1 from Ito et al. **Please note that custom ontologies may not be correct in their higher order grouping**. The segmentation follows a "hierarchical random" color scheme. The original volume is LAS oriented, but was rotated to RAS before drawing.
 
 The RDS file contains the `segmentation` class object, with maximum projections for all structures in all planes.
+
+<p align="center">
+  <img src="https://github.com/langleylab/coldcuts_segmentations/blob/main/Chimp_Davi130/Chimp_Davi130_sagittal_mp.png" width="600" />
+  <img src="https://github.com/langleylab/coldcuts_segmentations/blob/main/Chimp_Davi130/Chimp_Davi130_coronal_mp.png" width="600" /> 
+  <img src="https://github.com/langleylab/coldcuts_segmentations/blob/main/Chimp_Davi130/Chimp_Davi130_axial_mp.png" width="600" />
+  <img src="https://github.com/langleylab/coldcuts_segmentations/blob/main/Chimp_Davi130/Chimp_Davi130_ontology.png" width="900" />
+</p>
 
 
