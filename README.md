@@ -23,7 +23,7 @@ This segmentation was released by the Allen Institute as a volume file for eithe
 
 It contains **141** annotated structures, both subcortical and cortical. The structure ontology was provided by the Allen Institute, and the segmentation follows the original ABA color scheme.
 
-The RDS file contains the `segmentation` class object, with maximum projections for all structures in all planes.
+The RDS file contains the `segmentation` class object, with maximum projections for all structures in all planes, and 3D meshes.
 
 <p float="left">
   <img src="https://raw.githubusercontent.com/langleylab/coldcuts_segmentations/main/ABA_Human_half/ABA_Human_half_sagittal_mp.png" width="450" />
@@ -50,7 +50,7 @@ This segmentation was released by the Computational BioImage Group at Imperial C
 
 It contains **95** annotated structures, both cortical and subcortical, divided in left and right. The structure ontology is custom, largely based on the Supplementary Table A2 from [Yaakub et al. 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7028906/) and grouped according to lobes and brain developmental origin. The segmentation follows a "hierarchical random" color scheme.
 
-The RDS file contains the `segmentation` class object, with maximum projections for all structures in all planes.
+The RDS file contains the `segmentation` class object, with maximum projections for all structures in all planes, and 3D meshes.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/langleylab/coldcuts_segmentations/main/Hammersmith/Hammersmith_Human_sagittal_mp.png" width="600" />
@@ -66,7 +66,7 @@ This segmentation was released by the Department of Neuroscience, Washington Uni
 
 It contains **180** annotated structures, only cortical. The structure ontology is custom, largely based on the Supplementary Table A2 from Glasser et al. and grouped according to lobes and brain developmental origin. **Please note that custom ontologies may not be correct in their higher order grouping**. The segmentation follows a "hierarchical random" color scheme.
 
-The RDS file contains the `segmentation` class object, with maximum projections for all structures in all planes.
+The RDS file contains the `segmentation` class object, with maximum projections for all structures in all planes, and 3D meshes.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/langleylab/coldcuts_segmentations//main/HCP_MMP/HCP_MMP1_Human_sagittal_mp.png" width="600" />
@@ -77,11 +77,11 @@ The RDS file contains the `segmentation` class object, with maximum projections 
 
 ## ABA Mouse CCF2017
 
-This segmentation was released by the Allen Institute as a volume file, registered to the CCFv3 reference space. It is based on the work by Lein et al. 
+This segmentation was released by the Allen Institute for Brain Sciences, Seattle, WA, USA as a volume file, registered to the CCFv3 reference space. It is based on the work by Lein et al. 
 
 It contains **670** annotated structures, both cortical and subcortical. The structure ontology was provided by the Allen Institute, and the segmentation follows the original ABA color scheme. The original volume is PIR oriented, but was rotated to RAS before drawing.
 
-The RDS file contains the `segmentation` class object, with maximum projections for all structures in all planes.
+The RDS file contains the `segmentation` class object, with maximum projections for all structures in all planes, and 3D meshes.
 
 
 <p align="center">
@@ -97,7 +97,7 @@ This segmentation was released by the Janelia Research Campus, Howard Hughes Med
 
 It contains **75** annotated structures, divided in left and right. The structure ontology is custom, largely based on the Table 1 from Ito et al. **Please note that custom ontologies may not be correct in their higher order grouping**. The segmentation follows a "hierarchical random" color scheme.
 
-The RDS file contains the `segmentation` class object, with maximum projections for all structures in all planes.
+The RDS file contains the `segmentation` class object, with maximum projections for all structures in all planes, and 3D meshes.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/langleylab/coldcuts_segmentations/main/Drosophila_JRC2010/Drosophila_JRC2010_sagittal_mp.png" width="600" />
@@ -108,9 +108,9 @@ The RDS file contains the `segmentation` class object, with maximum projections 
 
 ## Chimpanzee Davi130 Juna.Chimp
 
-This segmentation was released by the National Chimpanzee Brain Resource (USA) as a volume file, registered to the Juna.Chimp reference space. It is based on the work by Vickery et al. It contains **130** annotated structures, divided in left and right. The structure ontology is custom, largely based on the Table 1 from Ito et al. **Please note that custom ontologies may not be correct in their higher order grouping**. The segmentation follows a "hierarchical random" color scheme. The original volume is LAS oriented, but was rotated to RAS before drawing.
+This segmentation was released by the Institute of Neuroscience and Medicine (INM-7) Research Centre Jülich, Jülich, Germany as a volume file, registered to the Juna.Chimp reference space. It is based on the work by Vickery et al. It contains **130** annotated structures, divided in left and right. The structure ontology is custom, largely based on Figure 2 from Vickery et al. **Please note that custom ontologies may not be correct in their higher order grouping**. The segmentation follows a "hierarchical random" color scheme. The original volume is LAS oriented, but was rotated to RAS before drawing.
 
-The RDS file contains the `segmentation` class object, with maximum projections for all structures in all planes.
+The RDS file contains the `segmentation` class object, with maximum projections for all structures in all planes, and 3D meshes.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/langleylab/coldcuts_segmentations/main/Chimp_Davi130/Chimp_Davi130_sagittal_mp.png" width="600" />
