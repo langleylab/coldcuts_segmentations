@@ -1,4 +1,3 @@
-## Finding additional segmentations (WIP)
 
 Many institutions have published their own segmentations as NIfTI, NRRD or RAW files.
 
@@ -72,7 +71,7 @@ The RDS file contains the `segmentation` class object, with maximum projections 
   <img src="https://raw.githubusercontent.com/langleylab/coldcuts_segmentations//main/HCP_MMP/HCP_MMP1_Human_sagittal_mp.png" width="600" />
   <img src="https://raw.githubusercontent.com/langleylab/coldcuts_segmentations//main/HCP_MMP/HCP_MMP1_Human_coronal_mp.png" width="600" /> 
   <img src="https://raw.githubusercontent.com/langleylab/coldcuts_segmentations//main/HCP_MMP/HCP_MMP1_Human_axial_mp.png" width="600" />
-  <img src="https://raw.githubusercontent.com/langleylab/coldcuts_segmentations//main/HCP_MMP/HCP_MMP1_Human_ontology.png" width="900" />
+  <img src="https://raw.githubusercontent.com/langleylab/coldcuts_segmentations/main/HCP_MMP/HCPMMP1_Human_ontology.png" width="900" />
 </p>
 
 ## ABA Mouse CCF2017
@@ -88,7 +87,7 @@ The RDS file contains the `segmentation` class object, with maximum projections 
   <img src="https://raw.githubusercontent.com/langleylab/coldcuts_segmentations/main/ABA_Mouse_CCFv3/ABA_mouse_50um_sagittal_mp.png" width="600" />
   <img src="https://raw.githubusercontent.com/langleylab/coldcuts_segmentations/main/ABA_Mouse_CCFv3/ABA_mouse_50um_coronal_mp.png" width="600" /> 
   <img src="https://raw.githubusercontent.com/langleylab/coldcuts_segmentations/main/ABA_Mouse_CCFv3/ABA_mouse_50um_axial_mp.png" width="600" />
-  <img src="https://raw.githubusercontent.com/langleylab/coldcuts_segmentations/main/ABA_Mouse_CCFv3/ABA_mouse_50um_ontology.png" width="900" />
+  <img src="https://raw.githubusercontent.com/langleylab/coldcuts_segmentations/main/ABA_Mouse_CCFv3/ABA_mouse_ontology.png" width="900" />
 </p>
 
 ## Drosophila JRC2010
